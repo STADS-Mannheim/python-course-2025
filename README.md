@@ -1,4 +1,4 @@
-# STADS Python Course 2024
+# STADS Python Course 2025
 
 This repository contains all code and data for the STADS Python course.
 
